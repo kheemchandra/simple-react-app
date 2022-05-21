@@ -1,0 +1,11 @@
+.goal-items-list{
+  list-style: none;
+  margin-block: 50px;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  gap: 20px;
+
+  max-width: 600px;
+}
